@@ -1,5 +1,5 @@
     },
-    "SUDO_USERS": {
+    "api_token": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
     }
